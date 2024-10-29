@@ -1,0 +1,8 @@
+numpy
+Pillow
+pyquaternion
+html-testRunner
+setuptools
+natsort
+rospkg
+transforms3d
